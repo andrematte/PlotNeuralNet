@@ -83,4 +83,3 @@ venv.bak/
 
 # mypy
 .mypy_cache/
-mynets/unet-thesis/unet-thesis.pdf
